@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab512437-7881-4805-a907-4e277aa98427" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="gitignore" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2UfD3K1v16t35MdvtsgVNV0OjRb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NiukeCoding/top101/link-list" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Codes\0001-Non-deeplearning\Leetcode\NiukeCoding\top101\link-list" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.BM59">
+    <configuration name="BM45" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NiukeCoding/top101/heap-stack-queue" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NiukeCoding/top101/heap-stack-queue/BM45.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BM47" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NiukeCoding/top101/heap-stack-queue" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NiukeCoding/top101/heap-stack-queue/BM47.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BM53" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NiukeCoding/top101/hash" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NiukeCoding/top101/hash/BM53.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BM57" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NiukeCoding/top101/recursion-backtrack" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NiukeCoding/top101/recursion-backtrack/BM57.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BM59" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NiukeCoding/top101/recursion-backtrack" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NiukeCoding/top101/recursion-backtrack/BM59.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.BM59" />
+        <item itemvalue="Python.BM57" />
+        <item itemvalue="Python.BM53" />
+        <item itemvalue="Python.BM47" />
+        <item itemvalue="Python.BM45" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab512437-7881-4805-a907-4e277aa98427" name="Default Changelist" comment="" />
+      <created>1693321540950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693321540950</updated>
+      <workItem from="1693321546362" duration="541000" />
+      <workItem from="1693400285087" duration="6127000" />
+      <workItem from="1693575639012" duration="7311000" />
+      <workItem from="1693663522345" duration="2721000" />
+      <workItem from="1693738660000" duration="5408000" />
+      <workItem from="1693751677309" duration="226000" />
+      <workItem from="1693839956158" duration="179000" />
+      <workItem from="1693918866736" duration="628000" />
+      <workItem from="1694008764674" duration="1338000" />
+      <workItem from="1694101416646" duration="160000" />
+      <workItem from="1694224286463" duration="9984000" />
+      <workItem from="1694334256281" duration="4031000" />
+      <workItem from="1694351094405" duration="618000" />
+      <workItem from="1694444835408" duration="1272000" />
+      <workItem from="1694609747541" duration="751000" />
+      <workItem from="1695538516123" duration="6561000" />
+      <workItem from="1695907769575" duration="2377000" />
+      <workItem from="1696038988657" duration="9000" />
+      <workItem from="1696157063952" duration="1291000" />
+      <workItem from="1696336166864" duration="8176000" />
+      <workItem from="1696397741252" duration="16395000" />
+      <workItem from="1696475630140" duration="4167000" />
+      <workItem from="1696509695547" duration="2604000" />
+      <workItem from="1696824897491" duration="11863000" />
+      <workItem from="1696850924296" duration="5867000" />
+      <workItem from="1696901885021" duration="9260000" />
+      <workItem from="1698152984115" duration="4040000" />
+      <workItem from="1698325296560" duration="8035000" />
+      <workItem from="1698408994185" duration="8695000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1693321910180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693321910180</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1693751650568</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693751650568</updated>
+    </task>
+    <task id="LOCAL-00003" summary="''">
+      <created>1696421811387</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696421811387</updated>
+    </task>
+    <task id="LOCAL-00004" summary="''">
+      <created>1698163180615</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698163180615</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1698409052473</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698409052473</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1698476922277</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698476922277</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <created>1698478062859</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698478062859</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update">
+      <created>1698478070729</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698478070729</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update">
+      <created>1698478086159</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698478086159</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="''" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="737" height="438" key="DebuggerActiveHint" timestamp="1695540390127">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="737" height="438" key="DebuggerActiveHint/0.0.1707.912@0.0.1707.912" timestamp="1695540390127" />
+    <state width="1663" height="129" key="GridCell.Tab.0.bottom" timestamp="1698478509276">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1663" height="129" key="GridCell.Tab.0.bottom/0.0.1707.912@0.0.1707.912" timestamp="1698478509276" />
+    <state width="1663" height="129" key="GridCell.Tab.0.center" timestamp="1698478509276">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1663" height="129" key="GridCell.Tab.0.center/0.0.1707.912@0.0.1707.912" timestamp="1698478509276" />
+    <state width="1663" height="129" key="GridCell.Tab.0.left" timestamp="1698478509276">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1663" height="129" key="GridCell.Tab.0.left/0.0.1707.912@0.0.1707.912" timestamp="1698478509276" />
+    <state width="1663" height="129" key="GridCell.Tab.0.right" timestamp="1698478509276">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1663" height="129" key="GridCell.Tab.0.right/0.0.1707.912@0.0.1707.912" timestamp="1698478509276" />
+    <state width="1663" height="181" key="GridCell.Tab.1.bottom" timestamp="1698334862918">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1663" height="181" key="GridCell.Tab.1.bottom/0.0.1707.912@0.0.1707.912" timestamp="1698334862918" />
+    <state width="1663" height="181" key="GridCell.Tab.1.center" timestamp="1698334862918">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1663" height="181" key="GridCell.Tab.1.center/0.0.1707.912@0.0.1707.912" timestamp="1698334862918" />
+    <state width="1663" height="181" key="GridCell.Tab.1.left" timestamp="1698334862918">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1663" height="181" key="GridCell.Tab.1.left/0.0.1707.912@0.0.1707.912" timestamp="1698334862918" />
+    <state width="1663" height="181" key="GridCell.Tab.1.right" timestamp="1698334862918">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state width="1663" height="181" key="GridCell.Tab.1.right/0.0.1707.912@0.0.1707.912" timestamp="1698334862918" />
+    <state x="67" y="47" key="MergeDialog" timestamp="1698409106739">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="67" y="47" key="MergeDialog/0.0.1707.912@0.0.1707.912" timestamp="1698409106739" />
+    <state x="740" y="323" width="466" height="266" key="MultipleFileMergeDialog" timestamp="1698409106745">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="740" y="323" width="466" height="266" key="MultipleFileMergeDialog/0.0.1707.912@0.0.1707.912" timestamp="1698409106745" />
+    <state x="446" y="190" key="Vcs.Push.Dialog.v2" timestamp="1698477890233">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="446" y="190" key="Vcs.Push.Dialog.v2/0.0.1707.912@0.0.1707.912" timestamp="1698477890233" />
+    <state x="651" y="370" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1698477963266">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="651" y="370" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.912@0.0.1707.912" timestamp="1698477963266" />
+    <state x="574" y="244" key="git4idea.merge.GitPullDialog" timestamp="1698477880731">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="574" y="244" key="git4idea.merge.GitPullDialog/0.0.1707.912@0.0.1707.912" timestamp="1698477880731" />
+    <state x="614" y="325" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1698477017310">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="614" y="325" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1707.912@0.0.1707.912" timestamp="1698477017310" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/NiukeCoding/top101/link-list/BM13.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Leetcode$BM57.coverage" NAME="BM57 Coverage Results" MODIFIED="1698333321189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NiukeCoding/top101/recursion-backtrack" />
+    <SUITE FILE_PATH="coverage/Leetcode$BM59.coverage" NAME="BM59 Coverage Results" MODIFIED="1698472759723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NiukeCoding/top101/recursion-backtrack" />
+    <SUITE FILE_PATH="coverage/Leetcode$BM14.coverage" NAME="BM14 Coverage Results" MODIFIED="1695540382039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NiukeCoding/top101/link-list" />
+    <SUITE FILE_PATH="coverage/Leetcode$BM53.coverage" NAME="BM53 Coverage Results" MODIFIED="1698163148108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NiukeCoding/top101/hash" />
+    <SUITE FILE_PATH="coverage/Leetcode$BM13.coverage" NAME="BM13 Coverage Results" MODIFIED="1694339112299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NiukeCoding/top101/link-list" />
+    <SUITE FILE_PATH="coverage/Leetcode$BM45.coverage" NAME="BM45 Coverage Results" MODIFIED="1696857399519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NiukeCoding/top101/heap-stack-queue" />
+    <SUITE FILE_PATH="coverage/Leetcode$BM47.coverage" NAME="BM47 Coverage Results" MODIFIED="1696908751515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NiukeCoding/top101/heap-stack-queue" />
+  </component>
+</project>
