@@ -16,7 +16,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab512437-7881-4805-a907-4e277aa98427" name="Default Changelist" comment="" />
+    <list default="true" id="ab512437-7881-4805-a907-4e277aa98427" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/NiukeCoding/top101/recursion-backtrack/BM61.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="gitignore" />
         <option value="Python Script" />
+        <option value="gitignore" />
       </list>
     </option>
   </component>
@@ -50,29 +53,7 @@
       <recent name="D:\Codes\0001-Non-deeplearning\Leetcode\NiukeCoding\top101\link-list" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BM59">
-    <configuration name="BM45" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NiukeCoding/top101/heap-stack-queue" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NiukeCoding/top101/heap-stack-queue/BM45.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.BM61">
     <configuration name="BM47" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,13 +142,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="BM61" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NiukeCoding/top101/recursion-backtrack" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NiukeCoding/top101/recursion-backtrack/BM61.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BM61" />
         <item itemvalue="Python.BM59" />
         <item itemvalue="Python.BM57" />
         <item itemvalue="Python.BM53" />
         <item itemvalue="Python.BM47" />
-        <item itemvalue="Python.BM45" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +213,8 @@
       <workItem from="1698152984115" duration="4040000" />
       <workItem from="1698325296560" duration="8035000" />
       <workItem from="1698408994185" duration="8695000" />
-      <workItem from="1698478543064" duration="311000" />
+      <workItem from="1698478543064" duration="393000" />
+      <workItem from="1698552518205" duration="2635000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1693321910180</created>
@@ -289,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698478723374</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update">
+      <created>1698478899923</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1698478899923</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -330,38 +341,38 @@
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state width="737" height="438" key="DebuggerActiveHint/0.0.1707.912@0.0.1707.912" timestamp="1695540390127" />
-    <state width="1663" height="129" key="GridCell.Tab.0.bottom" timestamp="1698478509276">
+    <state width="1663" height="137" key="GridCell.Tab.0.bottom" timestamp="1698556609341">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state width="1663" height="129" key="GridCell.Tab.0.bottom/0.0.1707.912@0.0.1707.912" timestamp="1698478509276" />
-    <state width="1663" height="129" key="GridCell.Tab.0.center" timestamp="1698478509276">
+    <state width="1663" height="137" key="GridCell.Tab.0.bottom/0.0.1707.912@0.0.1707.912" timestamp="1698556609341" />
+    <state width="1663" height="137" key="GridCell.Tab.0.center" timestamp="1698556609341">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state width="1663" height="129" key="GridCell.Tab.0.center/0.0.1707.912@0.0.1707.912" timestamp="1698478509276" />
-    <state width="1663" height="129" key="GridCell.Tab.0.left" timestamp="1698478509276">
+    <state width="1663" height="137" key="GridCell.Tab.0.center/0.0.1707.912@0.0.1707.912" timestamp="1698556609341" />
+    <state width="1663" height="137" key="GridCell.Tab.0.left" timestamp="1698556609341">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state width="1663" height="129" key="GridCell.Tab.0.left/0.0.1707.912@0.0.1707.912" timestamp="1698478509276" />
-    <state width="1663" height="129" key="GridCell.Tab.0.right" timestamp="1698478509276">
+    <state width="1663" height="137" key="GridCell.Tab.0.left/0.0.1707.912@0.0.1707.912" timestamp="1698556609341" />
+    <state width="1663" height="137" key="GridCell.Tab.0.right" timestamp="1698556609341">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state width="1663" height="129" key="GridCell.Tab.0.right/0.0.1707.912@0.0.1707.912" timestamp="1698478509276" />
-    <state width="1663" height="181" key="GridCell.Tab.1.bottom" timestamp="1698334862918">
+    <state width="1663" height="137" key="GridCell.Tab.0.right/0.0.1707.912@0.0.1707.912" timestamp="1698556609341" />
+    <state width="1663" height="137" key="GridCell.Tab.1.bottom" timestamp="1698556609341">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state width="1663" height="181" key="GridCell.Tab.1.bottom/0.0.1707.912@0.0.1707.912" timestamp="1698334862918" />
-    <state width="1663" height="181" key="GridCell.Tab.1.center" timestamp="1698334862918">
+    <state width="1663" height="137" key="GridCell.Tab.1.bottom/0.0.1707.912@0.0.1707.912" timestamp="1698556609341" />
+    <state width="1663" height="137" key="GridCell.Tab.1.center" timestamp="1698556609341">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state width="1663" height="181" key="GridCell.Tab.1.center/0.0.1707.912@0.0.1707.912" timestamp="1698334862918" />
-    <state width="1663" height="181" key="GridCell.Tab.1.left" timestamp="1698334862918">
+    <state width="1663" height="137" key="GridCell.Tab.1.center/0.0.1707.912@0.0.1707.912" timestamp="1698556609341" />
+    <state width="1663" height="137" key="GridCell.Tab.1.left" timestamp="1698556609341">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state width="1663" height="181" key="GridCell.Tab.1.left/0.0.1707.912@0.0.1707.912" timestamp="1698334862918" />
-    <state width="1663" height="181" key="GridCell.Tab.1.right" timestamp="1698334862918">
+    <state width="1663" height="137" key="GridCell.Tab.1.left/0.0.1707.912@0.0.1707.912" timestamp="1698556609341" />
+    <state width="1663" height="137" key="GridCell.Tab.1.right" timestamp="1698556609341">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state width="1663" height="181" key="GridCell.Tab.1.right/0.0.1707.912@0.0.1707.912" timestamp="1698334862918" />
+    <state width="1663" height="137" key="GridCell.Tab.1.right/0.0.1707.912@0.0.1707.912" timestamp="1698556609341" />
     <state x="67" y="47" key="MergeDialog" timestamp="1698409106739">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
@@ -370,10 +381,10 @@
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state x="740" y="323" width="466" height="266" key="MultipleFileMergeDialog/0.0.1707.912@0.0.1707.912" timestamp="1698409106745" />
-    <state x="446" y="190" key="Vcs.Push.Dialog.v2" timestamp="1698477890233">
+    <state x="446" y="190" key="Vcs.Push.Dialog.v2" timestamp="1698478906852">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state x="446" y="190" key="Vcs.Push.Dialog.v2/0.0.1707.912@0.0.1707.912" timestamp="1698477890233" />
+    <state x="446" y="190" key="Vcs.Push.Dialog.v2/0.0.1707.912@0.0.1707.912" timestamp="1698478906852" />
     <state x="651" y="370" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1698477963266">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
@@ -382,10 +393,14 @@
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state x="574" y="244" key="git4idea.merge.GitPullDialog/0.0.1707.912@0.0.1707.912" timestamp="1698477880731" />
-    <state x="614" y="325" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1698477017310">
+    <state x="655" y="317" key="git4idea.rebase.GitRebaseDialog" timestamp="1698478847602">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state x="614" y="325" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1707.912@0.0.1707.912" timestamp="1698477017310" />
+    <state x="655" y="317" key="git4idea.rebase.GitRebaseDialog/0.0.1707.912@0.0.1707.912" timestamp="1698478847602" />
+    <state x="614" y="325" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1698478839239">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="614" y="325" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1707.912@0.0.1707.912" timestamp="1698478839239" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -394,6 +409,11 @@
           <url>file://$PROJECT_DIR$/NiukeCoding/top101/link-list/BM13.py</url>
           <line>34</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/NiukeCoding/top101/recursion-backtrack/BM61.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -406,5 +426,6 @@
     <SUITE FILE_PATH="coverage/Leetcode$BM13.coverage" NAME="BM13 Coverage Results" MODIFIED="1694339112299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NiukeCoding/top101/link-list" />
     <SUITE FILE_PATH="coverage/Leetcode$BM45.coverage" NAME="BM45 Coverage Results" MODIFIED="1696857399519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NiukeCoding/top101/heap-stack-queue" />
     <SUITE FILE_PATH="coverage/Leetcode$BM47.coverage" NAME="BM47 Coverage Results" MODIFIED="1696908751515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NiukeCoding/top101/heap-stack-queue" />
+    <SUITE FILE_PATH="coverage/leetcode$BM61.coverage" NAME="BM61 Coverage Results" MODIFIED="1698553214327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NiukeCoding/top101/recursion-backtrack" />
   </component>
 </project>
