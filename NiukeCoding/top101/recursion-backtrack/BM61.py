@@ -13,43 +13,41 @@ class Solution:
         m = len(matrix[0])
 
         mat = [[-1] * m for _ in range(n)]
-        self.func(n, m, 0, 0, mat)
+        for i in range(n):
+            for j in range(m):
+                self.func(n, m, i, j, mat, matrix)
 
         return max([max(li) for li in mat])
 
-    def func(self, n, m, i, j, mat):
+    def func(self, n, m, i, j, mat, matrix):
         if mat[i][j] != -1:
             return mat[i][j]
 
         max_v = 0
-        if self.is_valid(n, m, i, j + 1, mat, mat[i][j]):
-            mat[i][j+1] = 0
-            max_v = max(self.func(n, m, i, j + 1, mat), max_v)
-            mat[i][j+1] = -1
+        if self.is_valid(n, m, i, j + 1, matrix, matrix[i][j]):
+            max_v = max(self.func(n, m, i, j + 1, mat, matrix), max_v)
 
-        if self.is_valid(n, m, i, j - 1, mat, mat[i][j]):
-            mat[i][j-1] = 0
-            max_v = max(self.func(n, m, i, j - 1, mat), max_v)
-            mat[i][j-1] = -1
+        if self.is_valid(n, m, i, j - 1, matrix, matrix[i][j]):
+            max_v = max(self.func(n, m, i, j - 1, mat, matrix), max_v)
 
-        if self.is_valid(n, m, i + 1, j, mat, mat[i][j]):
-            mat[i+1][j] = 0
-            max_v = max(self.func(n, m, i + 1, j, mat), max_v)
-            mat[i+1][j] = -1
+        if self.is_valid(n, m, i + 1, j, matrix, matrix[i][j]):
+            max_v = max(self.func(n, m, i + 1, j, mat, matrix), max_v)
 
-        if self.is_valid(n, m, i - 1, j, mat, mat[i][j]):
-            mat[i - 1][j] = 0
-            max_v = max(self.func(n, m, i - 1, j, mat), max_v)
-            mat[i - 1][j] = -1
+        if self.is_valid(n, m, i - 1, j, matrix, matrix[i][j]):
+            max_v = max(self.func(n, m, i - 1, j, mat, matrix), max_v)
 
         mat[i][j] = max_v + 1
         return max_v + 1
 
-    def is_valid(self, n, m, i, j, mat, last_value):
-        # 越界、数值非递增
-        if i == n or j == m or mat[i][j] > last_value:
+    def is_valid(self, n, m, i, j, matrix, last_value):
+        if i == n or j == m or i < 0 or j < 0 or matrix[i][j] <= last_value:
             return False
         return True
 
 s = Solution()
-print(s.solve([[1,2,3],[4,5,6],[7,8,9]]))
+print(s.solve([[4,3,3,6,6,3,2,1,0,7],
+[1,8,2,8,5,9,2,8,3,1],[8,0,9,2,4,3,2,4,3,7],[1,2,2,6,3,0,3,9,7,0],
+[7,4,3,8,8,3,2,4,6,8],[2,8,9,2,9,3,0,8,7,8],[8,9,9,4,6,3,3,4,9,6],
+[2,8,3,8,1,3,7,3,0,7],[2,1,1,6,4,1,0,8,1,6],[4,1,3,6,3,4,4,4,0,3]]))
+
+
