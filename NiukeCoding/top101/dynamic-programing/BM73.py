@@ -15,7 +15,7 @@ class Solution:
         for l in range(0, len(A)):
             for i in range(0, len(A) - l):
                 j = i + l
-                if l == 0:
+                if A[i] == A[j] and l <= 1:
                     dp[i][j] = True
                 elif A[i] == A[j]:
                     dp[i][j] = dp[i+1][j-1]
@@ -25,4 +25,4 @@ class Solution:
         return max_len
 
 s = Solution()
-print(s.getLongestPalindrome("baabccc"))
+print(s.getLongestPalindrome("baabc"))
