@@ -17,10 +17,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab512437-7881-4805-a907-4e277aa98427" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NiukeCoding/top101/dynamic-programing/BM74.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiukeCoding/top101/dynamic-programing/BM75.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NiukeCoding/top101/two-pointer/BM87.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NiukeCoding/top101/two-pointer/BM88.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NiukeCoding/top101/two-pointer/BM91.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NiukeCoding/top101/two-pointer/BM92.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NiukeCoding/top101/dynamic-programing/BM73.py" beforeDir="false" afterPath="$PROJECT_DIR$/NiukeCoding/top101/dynamic-programing/BM73.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +219,8 @@
       <workItem from="1698478543064" duration="393000" />
       <workItem from="1698552518205" duration="2635000" />
       <workItem from="1698627147248" duration="193000" />
-      <workItem from="1698848157142" duration="4105000" />
+      <workItem from="1698848157142" duration="4533000" />
+      <workItem from="1698931808338" duration="5313000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1693321910180</created>
@@ -318,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698848194084</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="update">
+      <created>1698852949238</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1698852949238</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,38 +368,38 @@
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state width="737" height="438" key="DebuggerActiveHint/0.0.1707.912@0.0.1707.912" timestamp="1695540390127" />
-    <state width="1663" height="130" key="GridCell.Tab.0.bottom" timestamp="1698851587692">
+    <state width="1663" height="130" key="GridCell.Tab.0.bottom" timestamp="1698852960134">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state width="1663" height="130" key="GridCell.Tab.0.bottom/0.0.1707.912@0.0.1707.912" timestamp="1698851587692" />
-    <state width="1663" height="130" key="GridCell.Tab.0.center" timestamp="1698851587692">
+    <state width="1663" height="130" key="GridCell.Tab.0.bottom/0.0.1707.912@0.0.1707.912" timestamp="1698852960134" />
+    <state width="1663" height="130" key="GridCell.Tab.0.center" timestamp="1698852960134">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state width="1663" height="130" key="GridCell.Tab.0.center/0.0.1707.912@0.0.1707.912" timestamp="1698851587692" />
-    <state width="1663" height="130" key="GridCell.Tab.0.left" timestamp="1698851587692">
+    <state width="1663" height="130" key="GridCell.Tab.0.center/0.0.1707.912@0.0.1707.912" timestamp="1698852960134" />
+    <state width="1663" height="130" key="GridCell.Tab.0.left" timestamp="1698852960134">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state width="1663" height="130" key="GridCell.Tab.0.left/0.0.1707.912@0.0.1707.912" timestamp="1698851587692" />
-    <state width="1663" height="130" key="GridCell.Tab.0.right" timestamp="1698851587692">
+    <state width="1663" height="130" key="GridCell.Tab.0.left/0.0.1707.912@0.0.1707.912" timestamp="1698852960134" />
+    <state width="1663" height="130" key="GridCell.Tab.0.right" timestamp="1698852960134">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state width="1663" height="130" key="GridCell.Tab.0.right/0.0.1707.912@0.0.1707.912" timestamp="1698851587692" />
-    <state width="1663" height="269" key="GridCell.Tab.1.bottom" timestamp="1698849545540">
+    <state width="1663" height="130" key="GridCell.Tab.0.right/0.0.1707.912@0.0.1707.912" timestamp="1698852960134" />
+    <state width="1663" height="269" key="GridCell.Tab.1.bottom" timestamp="1698852960130">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state width="1663" height="269" key="GridCell.Tab.1.bottom/0.0.1707.912@0.0.1707.912" timestamp="1698849545540" />
-    <state width="1663" height="269" key="GridCell.Tab.1.center" timestamp="1698849545540">
+    <state width="1663" height="269" key="GridCell.Tab.1.bottom/0.0.1707.912@0.0.1707.912" timestamp="1698852960130" />
+    <state width="1663" height="269" key="GridCell.Tab.1.center" timestamp="1698852960129">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state width="1663" height="269" key="GridCell.Tab.1.center/0.0.1707.912@0.0.1707.912" timestamp="1698849545540" />
-    <state width="1663" height="269" key="GridCell.Tab.1.left" timestamp="1698849545540">
+    <state width="1663" height="269" key="GridCell.Tab.1.center/0.0.1707.912@0.0.1707.912" timestamp="1698852960129" />
+    <state width="1663" height="269" key="GridCell.Tab.1.left" timestamp="1698852960129">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state width="1663" height="269" key="GridCell.Tab.1.left/0.0.1707.912@0.0.1707.912" timestamp="1698849545540" />
-    <state width="1663" height="269" key="GridCell.Tab.1.right" timestamp="1698849545540">
+    <state width="1663" height="269" key="GridCell.Tab.1.left/0.0.1707.912@0.0.1707.912" timestamp="1698852960129" />
+    <state width="1663" height="269" key="GridCell.Tab.1.right" timestamp="1698852960129">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state width="1663" height="269" key="GridCell.Tab.1.right/0.0.1707.912@0.0.1707.912" timestamp="1698849545540" />
+    <state width="1663" height="269" key="GridCell.Tab.1.right/0.0.1707.912@0.0.1707.912" timestamp="1698852960129" />
     <state x="67" y="47" key="MergeDialog" timestamp="1698409106739">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
@@ -399,10 +408,10 @@
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state x="740" y="323" width="466" height="266" key="MultipleFileMergeDialog/0.0.1707.912@0.0.1707.912" timestamp="1698848205992" />
-    <state x="446" y="190" key="Vcs.Push.Dialog.v2" timestamp="1698627338050">
+    <state x="446" y="190" key="Vcs.Push.Dialog.v2" timestamp="1698852957808">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state x="446" y="190" key="Vcs.Push.Dialog.v2/0.0.1707.912@0.0.1707.912" timestamp="1698627338050" />
+    <state x="446" y="190" key="Vcs.Push.Dialog.v2/0.0.1707.912@0.0.1707.912" timestamp="1698852957808" />
     <state width="860" height="463" key="XDebugger.FullValuePopup" timestamp="1698848470776">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
@@ -411,10 +420,10 @@
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state x="651" y="370" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.912@0.0.1707.912" timestamp="1698477963266" />
-    <state x="574" y="244" key="git4idea.merge.GitPullDialog" timestamp="1698848200571">
+    <state x="574" y="244" key="git4idea.merge.GitPullDialog" timestamp="1698931826609">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state x="574" y="244" key="git4idea.merge.GitPullDialog/0.0.1707.912@0.0.1707.912" timestamp="1698848200571" />
+    <state x="574" y="244" key="git4idea.merge.GitPullDialog/0.0.1707.912@0.0.1707.912" timestamp="1698931826609" />
     <state x="655" y="317" key="git4idea.rebase.GitRebaseDialog" timestamp="1698478847602">
       <screen x="0" y="0" width="1707" height="912" />
     </state>

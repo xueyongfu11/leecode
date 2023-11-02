@@ -1,0 +1,23 @@
+
+
+#coding:utf-8
+#
+# 代码中的类名、方法名、参数名已经指定，请勿修改，直接返回方法规定的值即可
+#
+#
+# @param str string字符串 待判断的字符串
+# @return bool布尔型
+#
+class Solution:
+    def judge(self , str ):
+        # write code here
+        m = 0
+        n = len(str) -1
+        while m < n:
+            if str[m] == str[n]:
+                m += 1
+                n -= 1
+                continue
+            else:
+                return False
+        return True
