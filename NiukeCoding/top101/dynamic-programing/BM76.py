@@ -1,5 +1,3 @@
-
-
 #coding:utf-8
 #
 # 代码中的类名、方法名、参数名已经指定，请勿修改，直接返回方法规定的值即可
@@ -12,24 +10,24 @@
 class Solution:
     def match(self , str , pattern ):
         # write code here
-        
+        dp = [[False] * (len(pattern) + 1) for _ in range((len(str) + 1))]
+        dp[0][0] = True
 
-s = Solution()
-print(s.match("aaa","a*a"))
+        for i in range(2, len(pattern) + 1):
+            if pattern[i - 1] == '*':
+                dp[0][i] = dp[0][i - 2]
 
-class Solution:
-    def match(self , str , pattern ):
-        if not pattern:                   #1.特殊情况，不存在匹配模式，那么就没有匹配字符串
-            return not str
-         #2. 递归的终止条件f(1) = 1：在这里就是 首位即匹配。
-        first_match = str and pattern[0] in {str[0], '.'}    
+        for i in range(1, len(str) + 1):
+            for j in range(1, len(pattern) + 1):  # j == 0是都是False
+                if pattern[j-1] != '*' and (pattern[j-1] == '.' or pattern[j-1] == str[i-1]):
+                    dp[i][j] = dp[i-1][j-1]
+                elif pattern[j-1] == '*' and j >= 2:
+                    if pattern[j-2] == '.' or pattern[j-2] == str[i-1]:  # *的前一位和str的当前位相等
+                        dp[i][j] = dp[i][j-2] or dp[i-1][j] # 两种情况： *表示0时；*表示1至多个时
+                    else:    # *的前一位和str的当前位不相等
+                        dp[i][j] = dp[i][j-2]  # 只有一种情况：*表示0
+        return dp[len(str)][len(pattern)]
 
-        #如果模式长度 >= 2,并且 模式索引[1] == '*'情况，也要分两种：
-        if len(pattern) >= 2 and pattern[1] == '*':
-            #第一种就是模式长度>2的情况下：字符串完全匹配从模式索引2之后的位置
-            return (self.match(str, pattern[2:]) or
-                    #或者模式长度 =2的情况下：字符串从索引1位置开始，完全匹配模式
-                    first_match and self.match(str[1:], pattern))
-        else:
-        #否则，模式长度>=2,而模式索引从1开始是 点字符或 *字符在其他位置，
-            return first_match and self.match(str[1:], pattern[1:])
+
+
+
